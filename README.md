@@ -1,0 +1,1 @@
+A Game of Super (4x4 grid board) Tic Tac Toe that I created in my first year of IT in high school. There is a mock AI that prevents a user from winning (as far as possible) but all other moves it makes are random. It also supports two player play.
